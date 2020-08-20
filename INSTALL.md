@@ -1,17 +1,13 @@
-### [X](http://link-to-x.com)
+### [IDLE](https://docs.python.org/3/library/idle.html)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/idle/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Copy `config-highlight.cfg` to your idle conifg direcotry, common locations: `C:\Users\.idlerc`, `C:\Users\%user%\.idlerc`, `Python\Lib\idlelib`, `/home/.idlerc`, `$HOME/.idlerc`
+
+2. Open IDLE and go to `Options > Configure > Highlighting`
+
+3. Select "Darcula" theme under "Custom"
