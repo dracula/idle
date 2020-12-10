@@ -6,7 +6,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/idle/archiv
 
 #### Activating theme
 
-1. Copy `config-highlight.cfg` to your idle conifg direcotry, common locations: `C:\Users\.idlerc`, `C:\Users\%user%\.idlerc`, `Python\Lib\idlelib`, `/home/.idlerc`, `$HOME/.idlerc`
+1. Copy `config-highlight.cfg` to your idle config direcotry, common locations: `C:\Users\.idlerc`, `C:\Users\%user%\.idlerc`, `Python\Lib\idlelib`, `/home/.idlerc`, `$HOME/.idlerc`
 
 2. Open IDLE and go to `Options > Configure > Highlighting`
 
