@@ -10,4 +10,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/idle/archiv
 
 2. Open IDLE and go to `Options > Configure > Highlighting`
 
-3. Select "Darcula" theme under "a Custom Theme"
+3. Select "Dracula" theme under "a Custom Theme"
